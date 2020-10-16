@@ -18,7 +18,7 @@ namespace IMFS
             this.files = files;
             this.folders = folders;
 
-            //Timer gcTimer = new Timer(new TimerCallback(RemoveItemsFromQueue), null, 0, interval);
+            Timer gcTimer = new Timer(new TimerCallback(RemoveItemsFromQueue), null, 0, interval);
         }
 
         public void RemoveFile(File file)
