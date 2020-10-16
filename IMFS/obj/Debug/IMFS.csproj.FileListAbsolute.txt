@@ -1,0 +1,12 @@
+C:\Users\ncolenberg\source\repos\Stamply\IMFS\bin\Debug\IMFS.dll
+C:\Users\ncolenberg\source\repos\Stamply\IMFS\bin\Debug\IMFS.pdb
+C:\Users\ncolenberg\source\repos\Stamply\IMFS\obj\Debug\IMFS.csprojAssemblyReference.cache
+C:\Users\ncolenberg\source\repos\Stamply\IMFS\obj\Debug\IMFS.csproj.CoreCompileInputs.cache
+C:\Users\ncolenberg\source\repos\Stamply\IMFS\obj\Debug\IMFS.dll
+C:\Users\ncolenberg\source\repos\Stamply\IMFS\obj\Debug\IMFS.pdb
+C:\Users\ncolenberg\Desktop\IMFS\IMFS\bin\Debug\IMFS.dll
+C:\Users\ncolenberg\Desktop\IMFS\IMFS\bin\Debug\IMFS.pdb
+C:\Users\ncolenberg\Desktop\IMFS\IMFS\obj\Debug\IMFS.csprojAssemblyReference.cache
+C:\Users\ncolenberg\Desktop\IMFS\IMFS\obj\Debug\IMFS.csproj.CoreCompileInputs.cache
+C:\Users\ncolenberg\Desktop\IMFS\IMFS\obj\Debug\IMFS.dll
+C:\Users\ncolenberg\Desktop\IMFS\IMFS\obj\Debug\IMFS.pdb
